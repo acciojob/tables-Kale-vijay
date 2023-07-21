@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+thead{
+	background-color:black;
+	border:0;
+	
+}
+#txt{
+	color: #222;
+}
+h2{
+	text-align:right;
+}
+.theading{
+	color:white
+}
